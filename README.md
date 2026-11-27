@@ -1,2 +1,2 @@
 # Mi-curriculum
-este repositorio contiene una página web donde mustro mis antecedentes laborales
+Este repositorio contiene una página web donde muestro mis antecedentes laborales
